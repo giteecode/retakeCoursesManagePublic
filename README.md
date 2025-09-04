@@ -15,7 +15,7 @@
 **毕业设计所有选题地址：
 [https://github.com/giteecode/allProject](https://github.com/giteecode/allProject)**
 
-## 基于Java+Springboot+vue3的重修课程信息管理系统(源代码+数据库)204
+## 基于Java+Springboot+vue3的重修课程信息管理系统(源代码+数据库+功能设计文档)204
 
 ## 一、系统介绍
 本项目前后端分离(可以改为ssm版本)，分为用户、教师、管理员三种角色
